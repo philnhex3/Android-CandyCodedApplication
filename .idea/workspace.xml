@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,13 +151,37 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1601385023549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601385023549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1601384792268">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/96.-768.1366.728@0.0.1600.860" timestamp="1601384792268" />
+    <state x="328" y="24" key="CommitChangelistDialog2" timestamp="1601385020575">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="328" y="24" key="CommitChangelistDialog2/0.0.1600.860/96.-768.1366.728@0.0.1600.860" timestamp="1601385020575" />
+    <state x="152" y="67" key="DiffContextDialog" timestamp="1601384976561">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="152" y="67" key="DiffContextDialog/0.0.1600.860/96.-768.1366.728@0.0.1600.860" timestamp="1601384976561" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1601385028324">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860/96.-768.1366.728@0.0.1600.860" timestamp="1601385028324" />
     <state x="400" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1601384250601">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
